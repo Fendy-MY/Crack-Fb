@@ -6,7 +6,7 @@
   Create By 👉🏻  <a href="https://github.com/Fendy-MY">Fendy 502</a>
 </p>
 <p align="center">
- <img src="https://raw.githubusercontent.com/Fendy-MY/Crack-Fb/master/Screenshot_20201017-223118_1.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://raw.githubusercontent.com/Fendy-MY/Crack-Fb/master/pic.png" width="640" title="Menu" alt="Menu">
 </p>
 
    ![](https://img.shields.io/badge/Language-2-blue) ![](https://img.shields.io/badge/Python-2.7-green) ![](https://img.shields.io/badge/Size-174KB-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
