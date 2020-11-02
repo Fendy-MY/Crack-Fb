@@ -18,8 +18,6 @@
   * Crack Facebook Pakistan
   * Crack Facebook USA
   * Crack Facebook Bangladesh
-  * Crack Facebook India
-  * Crack Facebook Malaysia
 * Crack From On Post Group / Friends
 
 ## Install script on Termux
