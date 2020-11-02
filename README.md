@@ -1,24 +1,3 @@
-<h1 align="center">
-  CRACK
-</h1>
-</div>
-<p align="center">
-  Create By 👉🏻  <a href="https://github.com/Fendy-MY">Fendy 502</a>
-</p>
-<p align="center">
- <img src="https://raw.githubusercontent.com/Fendy-MY/Crack-Fb/master/pic.png" width="640" title="Menu" alt="Menu">
-</p>
-
-   ![](https://img.shields.io/badge/Language-2-blue) ![](https://img.shields.io/badge/Python-2.7-green) ![](https://img.shields.io/badge/Size-174KB-orange) ![](https://img.shields.io/badge/Relase-20-08-20-brightgreen)
-
-## Features
-* Login Via Token (Only)
-* Crack From Friend Public
-  * Crack Facebook Indonesia
-  * Crack Facebook Pakistan
-  * Crack Facebook USA
-  * Crack Facebook Bangladesh
-* Crack From On Post Group / Friends
 
 ## Install script on Termux
 ```
